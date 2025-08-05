@@ -1,19 +1,45 @@
-# Módulo 3 - Trilha HTML
+# 🌀 Biblioteca do Hokage
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**A Maior Enciclopédia Ninja da Vila da Folha!**  
+Este projeto é um site informativo inspirado no universo do anime *Naruto*, com o objetivo de apresentar conteúdos sobre a história, personagens e sistema de poder da obra.
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+---
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+## 📚 Sobre o Projeto
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+O site apresenta:
+- Introdução sobre o anime *Naruto*
+- Explicação sobre a história principal
+- Destaques sobre temas como superação, amizade e responsabilidade
+- Detalhamento do sistema de poder: Chakra, Jutsus e Kekkei Genkai
+- Estrutura organizada com navegação, barra lateral e imagens ilustrativas
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+---
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+## 💻 Tecnologias Utilizadas
 
+- **HTML5**
+- **CSS3**
+- Estrutura de pastas para organização:
+  - `assets/images` (imagens)
+  - `assets/css/style.css` (estilos)
+
+---
+
+## 🌐 Estrutura de Pastas
+
+```bash
+Biblioteca-do-Hokage/
+│
+├── index.html
+├── README.md
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── images/
+        ├── logoSite.png
+        ├── konohakagure.jpg
+        ├── capa-naruto.jpg
+        ├── chakra.jpg
+        └── uzumakiFAVCON-removebg-preview.png
 
